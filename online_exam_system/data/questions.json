@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "questionID": "Q001",
+      "subject": "Python",
+      "text": "Which keyword is used to define a function in Python?",
+      "options": ["A) func", "B) def", "C) define", "D) function"],
+      "correctAnswer": "B"
+    },
+    {
+      "questionID": "Q002",
+      "subject": "Python",
+      "text": "What is the output of print(type([]))?",
+      "options": ["A) <class 'tuple'>", "B) <class 'dict'>", "C) <class 'list'>", "D) <class 'set'>"],
+      "correctAnswer": "C"
+    },
+    {
+      "questionID": "Q003",
+      "subject": "DBMS",
+      "text": "Which SQL clause is used to filter records?",
+      "options": ["A) ORDER BY", "B) GROUP BY", "C) WHERE", "D) HAVING"],
+      "correctAnswer": "C"
+    },
+    {
+      "questionID": "Q004",
+      "subject": "DBMS",
+      "text": "What does ACID stand for in databases?",
+      "options": [
+        "A) Atomicity, Consistency, Isolation, Durability",
+        "B) Access, Control, Index, Data",
+        "C) Accuracy, Consistency, Integrity, Durability",
+        "D) None of the above"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionID": "Q005",
+      "subject": "OS",
+      "text": "Which scheduling algorithm gives minimum average waiting time?",
+      "options": ["A) FCFS", "B) Round Robin", "C) SJF", "D) Priority"],
+      "correctAnswer": "C"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "exams": [
+    {
+      "examID": "EX001",
+      "title": "Python Basics Test",
+      "subject": "Python",
+      "duration": 10,
+      "totalMarks": 20,
+      "questionIDs": ["Q001", "Q002"],
+      "status": "active"
+    },
+    {
+      "examID": "EX002",
+      "title": "DBMS Fundamentals",
+      "subject": "DBMS",
+      "duration": 15,
+      "totalMarks": 20,
+      "questionIDs": ["Q003", "Q004"],
+      "status": "active"
+    }
+  ]
+}
